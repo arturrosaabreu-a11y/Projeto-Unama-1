@@ -1,0 +1,33 @@
+int main()
+{
+float preco = 19.5f;
+printf("%f\n",preco);
+printf("%.2f\n"，preco);
+return 0;
+}
+
+#include <stdio.h>
+int main()
+{
+double pi =3.1415926535;
+printf("%.f\n"，pi);
+printf("%.2f\n",pi);
+printf("%.4f\n", pi);
+printf("%.6f\n", pi);
+printf("%.8f\n", pi);
+return0;
+}
+
+#include <stdio.h>
+int main()
+{
+float preco = 19.50;
+printf
+printf("\tRECIBO\n");
+printf("===:
+printf("Produto: Caderno\n");
+printf("Preco:\t\tR$ %.2f\n",preco);
+printf("Mensagem:\"Obrigado!\"\n");
+printf("
+return 0;
+}
