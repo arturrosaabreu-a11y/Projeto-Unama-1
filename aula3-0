@@ -1,0 +1,87 @@
+#include
+int
+main(）{
+int idade;
+printf("Digite sua idade:");
+scanf("%d",&idade);
+if (idade >= 18){
+printf("Entrada permitida\n");
+printf("Fim do programa\n");
+return 0;
+}
+
+#include <stdio.hy
+int main(void)t
+{
+printf("A\n");
+printf("B\n");
+printf("C\n");
+return0;
+}
+
+#include
+int main0(){
+int idade;
+printf("Digite sua idade: ");
+scanf("%d", &idade);
+");
+if （idade
+printf
+18){
+Entrada
+permitida\n");
+printf("Fim do programa\n");
+return 0;
+}
+
+#include <stdio.h>
+int main(）{
+
+int idade;
+printf("Digite sua idade:");
+scanf("%d", &idade);
+if (idade
+>= 18){
+printf("Entrada permitida\n");
+printf("Fim do programa\n")
+return 0;
+}
+
+#include <stdio.h>
+#include <stdbool.h>
+int main(void){
+bool ativo = true;
+bool bloqueado = false;
+printf("ativo = %d\n", ativo);
+printf("bloqueado = %d\n", bloqueado);
+return O;
+}
+
+#include
+<stdio.h>
+int main(){
+// Codigo 1: Comparação correta (==)
+int idadel = 15;
+printf("--- Teste 1 (==)---\n");
+if (idadel == 18){
+printf("Voce tem 18 anos\n");
+} else {
+printf("Voce nao tem 18 anos (idade atual:%d)\n", idade1);
+// Codigo 2: Atribuição acidental (=)
+int idade2 = 15;
+printf("\n--- Teste 2 (=)---\n");
+if (idade2 = 18){
+printf("Voce tem 18 anos\n");
+printf("Valor final de idade2 apos o if: %d\n", idade2);
+return 0;
+}
+
+#include <stdio.h>
+int main() {
+int idade;
+printf("Digite sua idade:");
+scanf("8d", &idade);
+if (idade >= 18){
+printf("Maior de idade\n");
+return 0;
+}
