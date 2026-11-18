@@ -1,0 +1,34 @@
+#include <stdio.h>
+int main()
+{
+//variável//
+int idade;
+printf("Digite sua idade:
+//entrada//
+scanf("%d",&idade);
+//saida//
+printf("Voce informou a idade %d.\n'
+idade);
+return0;
+}
+
+#include <Studio.h>
+int main()
+{
+// Leitura dos dados
+printf("Digite a idade:
+scanf("%d"，&idade);
+printf("Digite a altura:
+scanf("%f"，&altura);
+printf("Digite o peso:");
+scanf("%lf"，&peso);
+printf("Digite o conceito (um caractere):
+scanf(" %c",&conceito);// Espaço antes de %c
+I/ Exibicão dos dados formatados
+printf("\n--- DADOS CADASTRADOS ---\n");
+printf("Idade:%d anos\n", idade);
+printf("Altura:%.2f m\n",altura);
+printf("Peso:%.21f kg\n",peso);
+printf("Conceito: %c\n",conceito);
+return 0;
+}
